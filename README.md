@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Maksym 👋
+I am Maksym, a dedicated developer with a deep passion for the IT industry and its dynamics. I believe that technology has the power to make our world a better place and I strive to contribute to this process. My goal is to build a successful career in development, applying advanced knowledge and skills, to create innovative solutions. My ability to work in a team and present myself as an active participant helps synergize with colleagues and achieve outstanding results. My motivation and previous experience will allow me to realize projects using subject matter knowledge, out-of-the-box solutions and creativity.
 <!--
 **MaksymChukhrai/MaksymChukhrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
