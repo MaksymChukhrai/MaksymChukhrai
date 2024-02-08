@@ -10,7 +10,7 @@ More details about me [can be read here](https://maksymchukhrai.github.io/About-
 
 - 📄 Know about my experiences - [also here](https://maksymchukhrai.github.io/About-me/)
 - 🔭 I’m currently working on [Furniture reupholstery web app project](https://7studio.com.ua/)
-- 👨‍💻 All of my projects are available at [this profile](https://github.com/MaksymChukhrai)
+- 👨‍💻 All of my projects are available at [this profile below](https://github.com/MaksymChukhrai)
 
 
 <h3 align="left">Connect with me:</h3>
