@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-I am Maksym, a dedicated developer with a deep passion for the IT industry and its dynamics. I believe that technology has the power to make our world a better place and I strive to contribute to this process.<br>
+I am a dedicated developer with a deep passion for the IT industry and its dynamics. I believe that technology has the power to make our world a better place and I strive to contribute to this process.<br>
 My goal is to build a successful career in development, applying advanced knowledge and skills, to create innovative solutions. My ability to work in a team and present myself as an active participant helps me synergize with colleagues and achieve outstanding results. My motivation and previous experience will allow me to realize projects using subject matter knowledge, out-of-the-box solutions, and creativity.<br>
 
 Even though I am quite a junior in programming, I am constantly striving to deepen and improve my skills in learning programming languages. I try to bring something new and enjoy innovations. 
