@@ -2,8 +2,7 @@
 I am a dedicated developer with a deep passion for the IT industry and its dynamics. I believe that technology has the power to make our world a better place and I strive to contribute to this process.<br>
 My goal is to build a successful career in development, applying advanced knowledge and skills, to create innovative solutions. My ability to work in a team and present myself as an active participant helps me synergize with colleagues and achieve outstanding results. My motivation and previous experience will allow me to realize projects using subject matter knowledge, out-of-the-box solutions, and creativity.<br>
 
-Even though I am quite a junior in programming, I am constantly striving to deepen and improve my skills in learning programming languages. I try to bring something new and enjoy innovations. 
-I like the freedom, that's why remote work and time management are my way of life. <br><br>
+As a programmer, I am constantly striving to deepen and improve my skills in various programming languages and stay up-to-date with the ever-evolving technologies in our field. I try to bring something new and enjoy innovations. I like the freedom, that's why remote work and time management are my way of life. <br><br>
 More details about me [can be read here](https://maksymchukhrai.github.io/About-me/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymchukhrai&label=Profile%20views&color=0e75b6&style=flat" alt="maksymchukhrai" /> </p>
