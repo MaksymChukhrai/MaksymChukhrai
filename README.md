@@ -8,7 +8,7 @@ More details about me [can be read here](https://maksymchukhrai.github.io/About-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymchukhrai&label=Profile%20views&color=0e75b6&style=flat" alt="maksymchukhrai" /> </p>
 
-- 📄 Know about my experiences - [also here](https://drive.google.com/file/d/1-Jh44hasdjYDdPVenzMcr1fqDptxtbiY/view))
+- 📄 Know about my experiences - [also here](https://drive.google.com/file/d/1-Jh44hasdjYDdPVenzMcr1fqDptxtbiY/view)
 - 🔭 I’m currently working on [Advocate's Web Platform](https://igor-tarasenko.com/)
 - 👨‍💻 All of my projects are available at [this profile below](https://github.com/MaksymChukhrai)
 
