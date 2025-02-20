@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-I am a Fullstack Developer with 2+ years of hands-on experience in web development, specializing in JavaScript ecosystem (React, Node.js) and e-commerce solutions. <br>
+I am a Fullstack Developer with 2+ years of hands-on experience in web development, specializing in JavaScript ecosystem (React, Node.js) and e-commerce solutions. <br><br>
 
 Previously spent 15+ years in banking and business management, which gives me a unique perspective on building business-oriented solutions. This background helps me understand not just the technical side, but also the business value of the products I develop. <br>
 Particularly interested in blockchain technologies and looking forward to expanding into Solidity development. Currently open to remote opportunities with European/US companies where I can collaborate with experienced developers and contribute to meaningful projects.<br><br>
