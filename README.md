@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-I am a dedicated developer with a deep passion for the IT industry and its dynamics. I believe that technology has the power to make our world a better place and I strive to contribute to this process.<br>
-My goal is to build a successful career in development, applying advanced knowledge and skills, to create innovative solutions. My ability to work in a team and present myself as an active participant helps me synergize with colleagues and achieve outstanding results. My motivation and previous experience will allow me to realize projects using subject matter knowledge, out-of-the-box solutions, and creativity.<br>
+I am a Fullstack Developer with 2+ years of hands-on experience in web development, specializing in JavaScript ecosystem (React, Node.js) and e-commerce solutions. <br>
 
-As a programmer, I am constantly striving to deepen and improve my skills in various programming languages and stay up-to-date with the ever-evolving technologies in our field. I try to bring something new and enjoy innovations. I like the freedom, that's why remote work and time management are my way of life. <br><br>
+Previously spent 15+ years in banking and business management, which gives me a unique perspective on building business-oriented solutions. This background helps me understand not just the technical side, but also the business value of the products I develop. <br>
+Particularly interested in blockchain technologies and looking forward to expanding into Solidity development. Currently open to remote opportunities with European/US companies where I can collaborate with experienced developers and contribute to meaningful projects.<br><br>
+I like the freedom, that's why remote work and time management are my way of life. <br><br>
 More details about me [can be read here](https://maksymchukhrai.github.io/About-me/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymchukhrai&label=Profile%20views&color=0e75b6&style=flat" alt="maksymchukhrai" /> </p>
 
-- 📄 Know about my experiences - [also here](https://igor-tarasenko.com/about-me/index.html)
+- 📄 Know about my experiences - [also here](https://drive.google.com/file/d/1-Jh44hasdjYDdPVenzMcr1fqDptxtbiY/view))
 - 🔭 I’m currently working on [Advocate's Web Platform](https://igor-tarasenko.com/)
 - 👨‍💻 All of my projects are available at [this profile below](https://github.com/MaksymChukhrai)
 
