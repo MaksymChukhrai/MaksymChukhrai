@@ -10,7 +10,7 @@ More details about me [can be read here](https://maksymchukhrai.github.io/About-
 
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1-Jh44hasdjYDdPVenzMcr1fqDptxtbiY/view" target="_blank">also here</a>
 - 🔭 I'm currently working on <a href="https://igor-tarasenko.com/" target="_blank">Advocate's Web Platform</a>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/MaksymChukhrai" target="_blank">this profile below</a>
+- 👨‍💻 All of my projects are available at <a href="https://maksymchukhrai.github.io/About-dev/" target="_blank">on my web app</a> and in this profile below.
 
 
 <h3 align="left">Connect with me:</h3>
