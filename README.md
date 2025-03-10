@@ -4,7 +4,7 @@ I am a Fullstack Developer with 2+ years of hands-on experience in web developme
 Previously spent 15+ years in banking and business management, which gives me a unique perspective on building business-oriented solutions. This background helps me understand not just the technical side, but also the business value of the products I develop. <br>
 Particularly interested in blockchain technologies and looking forward to expanding into Solidity development. Currently open to remote opportunities with European/US companies where I can collaborate with experienced developers and contribute to meaningful projects.<br><br>
 I like the freedom, that's why remote work and time management are my way of life. <br><br>
-More details about me [can be read here](https://maksymchukhrai.github.io/About-dev/).
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymchukhrai&label=Profile%20views&color=0e75b6&style=flat" alt="maksymchukhrai" /> </p>
 
