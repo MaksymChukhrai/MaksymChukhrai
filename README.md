@@ -8,7 +8,7 @@ I like the freedom, that's why remote work and time management are my way of lif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymchukhrai&label=Profile%20views&color=0e75b6&style=flat" alt="maksymchukhrai" /> </p>
 
-- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1-mEN_xd4OBLY0tLnSkjJthsGTgglXka5/view?pli=1" target="_blank">also here</a>
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1-mEN_xd4OBLY0tLnSkjJthsGTgglXka5/view?pli=1" target="_blank">here</a>
 - 🔭 I'm currently working on <a href="https://igor-tarasenko.com/" target="_blank">Advocate's Web Platform</a>
 - 👨‍💻 All of my projects are available <a href="https://www.mchukhrai.com" target="_blank">on my web app</a> and in this profile below.
 
