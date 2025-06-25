@@ -112,7 +112,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     <!-- Docker -->
     <td align="center" width="196" style="border: none;">
       <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="80" height="80" />
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="100" height="80" />
       </a>
     </td>
     <!-- Parcel -->
