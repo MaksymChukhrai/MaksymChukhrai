@@ -13,9 +13,9 @@ I like the freedom, that's why remote work and time management are my way of lif
 - 👨‍💻 All of my projects are available <a href="https://www.mchukhrai.com" target="_blank">on my web app</a> and in this profile below.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
-<h2>Frontend</h2>
+<h3>Frontend</h3>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="196">
@@ -51,7 +51,7 @@ I like the freedom, that's why remote work and time management are my way of lif
   </tr>
   </table>
 <!-- Backend -->
-<h2>Backend</h2>
+<h3>Backend</h3>
 <table align="center" width="100%">
   <tr>
   <!-- Node.js -->
@@ -94,7 +94,7 @@ I like the freedom, that's why remote work and time management are my way of lif
   </table>
 
 <!-- Tools -->
-<h4>Tools</h4>
+<h3>Tools</h3>
 <table align="center" width="100%">
   <tr>
   <!-- Postman -->
