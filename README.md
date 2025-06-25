@@ -22,7 +22,7 @@ I like the freedom, that's why remote work and time management are my way of lif
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
