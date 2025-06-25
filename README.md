@@ -13,15 +13,9 @@ I like the freedom, that's why remote work and time management are my way of lif
 - 👨‍💻 All of my projects are available <a href="https://www.mchukhrai.com" target="_blank">on my web app</a> and in this profile below.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maksym-chukhrai/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
+<h2>Frontend</h2>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="196">
@@ -55,8 +49,10 @@ I like the freedom, that's why remote work and time management are my way of lif
       </a>
     </td>
   </tr>
+  </table>
 <!-- Backend -->
-
+<h2>Backend</h2>
+<table align="center" width="100%">
   <tr>
   <!-- Node.js -->
     <td align="center" width="196"> 
@@ -95,8 +91,11 @@ I like the freedom, that's why remote work and time management are my way of lif
       </a>
     </td>
   </tr>
+  </table>
 
 <!-- Tools -->
+<h2>Tools</h2>
+<table align="center" width="100%">
   <tr>
   <!-- Postman -->
     <td align="center" width="196">
@@ -136,4 +135,3 @@ I like the freedom, that's why remote work and time management are my way of lif
     </td>
   </tr>
 </table>
-
