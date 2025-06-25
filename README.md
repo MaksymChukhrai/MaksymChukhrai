@@ -75,7 +75,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     <!-- MongoDB -->
     <td align="center" width="196" style="border: none;">
       <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90" height="90" />
       </a>
     </td>
     <!-- PostgreSQL -->
@@ -87,7 +87,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     <!-- Supabase -->
     <td align="center" width="196" style="border: none;">
       <a href="https://supabase.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="mongodb" width="100" height="70" />
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="mongodb" width="100" height="100" />
       </a>
     </td>
   </tr>
