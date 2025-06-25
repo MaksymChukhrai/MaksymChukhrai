@@ -16,34 +16,34 @@ I like the freedom, that's why remote work and time management are my way of lif
 <h2 align="left">Languages and Tools:</h2>
 
 <h3>Frontend</h3>
-<table align="center" width="100%" style=border: none>
+<table align="center" width="100%" style="border-collapse: collapse; border: none;>
   <tr>
-    <td align="center" width="196" style="border:none>
+    <td align="center" width="196" >
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
       </a>
     </td>
-    <td align="center" width="196" style="border:none>
+    <td align="center" width="196" >
       <a href="https://reactjs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
       </a>
     </td>
-    <td align="center" width="196" style="border:none>
+    <td align="center" width="196" >
       <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" />
       </a>
     </td>
-        <td align="center" width="196" style="border:none>
+        <td align="center" width="196" >
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" />
       </a>
     </td>
-        <td align="center" width="196" style="border:none>
+        <td align="center" width="196" >
       <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
       </a>
     </td> 
-    <td align="center" width="196" style="border:none>
+    <td align="center" width="196" >
       <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
       </a>
