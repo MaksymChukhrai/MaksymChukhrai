@@ -81,7 +81,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     <!-- PostgreSQL -->
         <td align="center" width="196">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="mongodb" width="80" height="90" />
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="mongodb" width="80" height="80" />
       </a>
     </td>
     <!-- Supabase -->
@@ -112,7 +112,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     <!-- Docker -->
         <td align="center" width="196">
       <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="90" height="90" />
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="80" height="80" />
       </a>
     </td>
         <!-- Parcel -->
@@ -130,7 +130,7 @@ I like the freedom, that's why remote work and time management are my way of lif
         <!-- Webpack -->
         <td align="center" width="196">
       <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="80" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="100" />
       </a>
     </td>
   </tr>
