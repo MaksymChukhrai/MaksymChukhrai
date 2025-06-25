@@ -16,9 +16,9 @@ I like the freedom, that's why remote work and time management are my way of lif
 <h2 align="left">Languages and Tools:</h2>
 
 <h3>Frontend</h3>
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse border: none>
   <tr>
-    <td align="center" width="196">
+    <td align="center" width="196" style="border: none>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
       </a>
@@ -123,7 +123,7 @@ I like the freedom, that's why remote work and time management are my way of lif
     </td>
         <!-- Vite -->
         <td align="center" width="196">
-      <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+      <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="90" height="90" />
       </a>
     </td>
