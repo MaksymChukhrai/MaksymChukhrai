@@ -12,11 +12,10 @@ I like the freedom, that's why remote work and time management are my way of lif
 - 🔭 I'm currently working on <a href="https://igor-tarasenko.com/" target="_blank">Advocate's Web Platform</a>
 - 👨‍💻 All of my projects are available <a href="https://www.mchukhrai.com" target="_blank">on my web app</a> and in this profile below.
 
-
 <h2 align="left">Languages and Tools:</h2>
 
 <h3>Frontend</h3>
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" >
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="196" >
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -49,10 +48,11 @@ I like the freedom, that's why remote work and time management are my way of lif
       </a>
     </td>
   </tr>
-  </table>
+</table>
+
 <!-- Backend -->
 <h3>Backend</h3>
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
   <!-- Node.js -->
     <td align="center" width="196"> 
@@ -91,11 +91,11 @@ I like the freedom, that's why remote work and time management are my way of lif
       </a>
     </td>
   </tr>
-  </table>
+</table>
 
 <!-- Tools -->
 <h3>Tools</h3>
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
   <!-- Postman -->
     <td align="center" width="196">
@@ -135,3 +135,4 @@ I like the freedom, that's why remote work and time management are my way of lif
     </td>
   </tr>
 </table>
+
