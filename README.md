@@ -25,27 +25,12 @@ I like the freedom, that's why remote work and time management are my way of lif
 <table align="center" width="100%">
   <tr>
     <td align="center" width="196">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
-      </a>
-    </td>
-    <td align="center" width="196">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
-      </a>
-    </td>
-    <td align="center" width="196">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" />
-      </a>
-    </td>
-    <td align="center" width="196">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
       </a>
     </td>
     <td align="center" width="196">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
       </a>
     </td>
@@ -54,37 +39,101 @@ I like the freedom, that's why remote work and time management are my way of lif
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="196">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
+        <td align="center" width="196">
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" />
+      </a>
+    </td>
+        <td align="center" width="196">
+      <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
       </a>
     </td>
     <td align="center" width="196">
+      <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
+      </a>
+    </td>
+  </tr>
+<!-- Backend -->
+
+  <tr>
+  <!-- Node.js -->
+    <td align="center" width="196"> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
       </a>
     </td>
+    <!-- Express -->
     <td align="center" width="196">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
       </a>
     </td>
+    <!-- Typescript -->
+        <td align="center" width="196">
+      <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
+      </a>
+    </td>
+    <!-- MongoDB -->
     <td align="center" width="196">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" />
       </a>
     </td>
+    <!-- PostgreSQL -->
+        <td align="center" width="196">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="mongodb" width="60" height="60" />
+      </a>
+    </td>
+    <!-- Supabase -->
+            <td align="center" width="196">
+      <a href="https://supabase.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="mongodb" width="60" height="60" />
+      </a>
+    </td>
+  </tr>
+
+<!-- Tools -->
+  <tr>
+  <!-- Postman -->
     <td align="center" width="196">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
       </a>
     </td>
+    <!-- Figma -->
     <td align="center" width="196">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" />
       </a>
     </td>
+    <!-- Docker -->
+        <td align="center" width="196">
+      <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="60" />
+      </a>
+    </td>
+        <!-- Parcel -->
+        <td align="center" width="196">
+      <a href="https://parceljs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21~bgwhite.svg" alt="parcel" width="60" height="60" />
+      </a>
+    </td>
+        <!-- Vite -->
+        <td align="center" width="196">
+      <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="60" height="60" />
+      </a>
+    </td>
+        <!-- Webpack -->
+        <td align="center" width="196">
+      <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60" />
+      </a>
+    </td>
   </tr>
 </table>
+
