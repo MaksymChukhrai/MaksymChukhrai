@@ -94,7 +94,7 @@ I like the freedom, that's why remote work and time management are my way of lif
   </table>
 
 <!-- Tools -->
-<h2>Tools</h2>
+<h4>Tools</h4>
 <table align="center" width="100%">
   <tr>
   <!-- Postman -->
