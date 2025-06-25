@@ -118,13 +118,13 @@ I like the freedom, that's why remote work and time management are my way of lif
         <!-- Parcel -->
         <td align="center" width="196">
       <a href="https://parceljs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21~bgwhite.svg" alt="parcel" width="90" height="60" />
+        <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21~bgwhite.svg" alt="parcel" width="100" height="50" />
       </a>
     </td>
         <!-- Vite -->
         <td align="center" width="196">
       <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="60" height="60" />
+        <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="90" height="90" />
       </a>
     </td>
         <!-- Webpack -->
