@@ -16,7 +16,7 @@ I like the freedom, that's why remote work and time management are my way of lif
 <h2 align="left">Languages and Tools:</h2>
 
 <h3>Frontend</h3>
-<table align="center" width="100%" style="border-collapse: collapse border: none>
+<table align="center" width="100%" style=border: none>
   <tr>
     <td align="center" width="196" style="border: none>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
